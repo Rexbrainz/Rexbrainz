@@ -34,4 +34,4 @@ Always looking to learn new skills and technologies — recommendations are welc
 ---
 
 ## 🌐 Where to find me  
-[LinkedIn](https://www.linkedin.com/in/success-daniel-378037197/) • [Email](mailto:successdaniel49@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/success-daniel-378037197/) • [Email](successdaniel49@gmail.com)
