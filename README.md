@@ -2,7 +2,7 @@
 
 ## 🛠️ These are my tools  
 **Programming languages 🧑🏻‍💻:**  
-C • C++ • Python
+C • C++ • Go
 
 **Operating Systems 🖥️:**  
 Linux • macOS • Windows  
